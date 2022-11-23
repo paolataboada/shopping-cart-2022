@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopping-cart-2022/static/css/main.d7857f5b.css",
-    "main.js": "/shopping-cart-2022/static/js/main.36dbf500.js",
+    "main.js": "/shopping-cart-2022/static/js/main.3e5f71f5.js",
     "static/js/787.205cb2ff.chunk.js": "/shopping-cart-2022/static/js/787.205cb2ff.chunk.js",
     "static/media/user-icon.jfif": "/shopping-cart-2022/static/media/user-icon.cdb50d61facd0fd76454.jfif",
     "static/media/christmas-poster-discount.png": "/shopping-cart-2022/static/media/christmas-poster-discount.55ebb765862ba2062d9e.png",
@@ -9,11 +9,11 @@
     "static/media/cart-seamless-pattern.webp": "/shopping-cart-2022/static/media/cart-seamless-pattern.4b4a9537fccd917089c1.webp",
     "index.html": "/shopping-cart-2022/index.html",
     "main.d7857f5b.css.map": "/shopping-cart-2022/static/css/main.d7857f5b.css.map",
-    "main.36dbf500.js.map": "/shopping-cart-2022/static/js/main.36dbf500.js.map",
+    "main.3e5f71f5.js.map": "/shopping-cart-2022/static/js/main.3e5f71f5.js.map",
     "787.205cb2ff.chunk.js.map": "/shopping-cart-2022/static/js/787.205cb2ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7857f5b.css",
-    "static/js/main.36dbf500.js"
+    "static/js/main.3e5f71f5.js"
   ]
 }
