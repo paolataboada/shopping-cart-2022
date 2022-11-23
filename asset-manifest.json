@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f03bf623.css",
-    "main.js": "/static/js/main.93f3cfef.js",
-    "static/js/787.205cb2ff.chunk.js": "/static/js/787.205cb2ff.chunk.js",
-    "static/media/user-icon.jfif": "/static/media/user-icon.cdb50d61facd0fd76454.jfif",
-    "static/media/christmas-poster-discount.png": "/static/media/christmas-poster-discount.55ebb765862ba2062d9e.png",
-    "static/media/check-circle.png": "/static/media/check-circle.179b1c41e8313aef06ab.png",
-    "static/media/cart-seamless-pattern.webp": "/static/media/cart-seamless-pattern.4b4a9537fccd917089c1.webp",
-    "index.html": "/index.html",
-    "main.f03bf623.css.map": "/static/css/main.f03bf623.css.map",
-    "main.93f3cfef.js.map": "/static/js/main.93f3cfef.js.map",
-    "787.205cb2ff.chunk.js.map": "/static/js/787.205cb2ff.chunk.js.map"
+    "main.css": "/shopping-cart-2022/static/css/main.d7857f5b.css",
+    "main.js": "/shopping-cart-2022/static/js/main.36dbf500.js",
+    "static/js/787.205cb2ff.chunk.js": "/shopping-cart-2022/static/js/787.205cb2ff.chunk.js",
+    "static/media/user-icon.jfif": "/shopping-cart-2022/static/media/user-icon.cdb50d61facd0fd76454.jfif",
+    "static/media/christmas-poster-discount.png": "/shopping-cart-2022/static/media/christmas-poster-discount.55ebb765862ba2062d9e.png",
+    "static/media/check-circle.png": "/shopping-cart-2022/static/media/check-circle.179b1c41e8313aef06ab.png",
+    "static/media/cart-seamless-pattern.webp": "/shopping-cart-2022/static/media/cart-seamless-pattern.4b4a9537fccd917089c1.webp",
+    "index.html": "/shopping-cart-2022/index.html",
+    "main.d7857f5b.css.map": "/shopping-cart-2022/static/css/main.d7857f5b.css.map",
+    "main.36dbf500.js.map": "/shopping-cart-2022/static/js/main.36dbf500.js.map",
+    "787.205cb2ff.chunk.js.map": "/shopping-cart-2022/static/js/787.205cb2ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f03bf623.css",
-    "static/js/main.93f3cfef.js"
+    "static/css/main.d7857f5b.css",
+    "static/js/main.36dbf500.js"
   ]
 }
